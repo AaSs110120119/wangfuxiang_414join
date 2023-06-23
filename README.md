@@ -7,7 +7,7 @@ AaSs110120119
 # 想要学习的内容     
 因为打算往技术美术方面发展，因此希望学习 <br/>    
 - 1. 3D美术内容制作工具：3DsMAX,Maya,C4D,Substance,Houdini,ZBrush，XSI，Photpshop（熟悉粒子特效相关内容制作）
-- 2. 精通至少一个游戏引擎： UnrealEngine4:着色器及相关工具 ，OpenGL/Direct3D渲染管线，Shader Graph或材质蓝图效果制作，SRP框架，SHADER编程
+- 2. 游戏引擎： UnrealEngine4:着色器及相关工具 ，OpenGL/Direct3D渲染管线，Shader Graph或材质蓝图效果制作，SRP框架，SHADER编程
 - 4. 理论知识：图形学算法，游戏引擎渲染技术，各种光照模型，美术基础能力
 - 6. 游戏美术的各类资源开发的流程（次世代游戏，maya，PBR），技术标准和规范，包括，特效，角色，场景，物理等
 - 7. 脚本语言：MaxScript，UnrealScript,Python,Mel或者各种 DCC 软件中的脚本语言
