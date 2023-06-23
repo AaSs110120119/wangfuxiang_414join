@@ -18,7 +18,7 @@ AaSs110120119
 - 1. 希望获得上述学习内容的有关资源和学习指导
 - 2. 希望参与有关maya，PBR及次世代游戏制作流程的项目
 # 我喜欢的图片
-![我最喜欢的图片]（https://postimg.cc/Q9wY2Lwj）
+![我最喜欢的图片]（https://i.postimg.cc/kGgrtqyR/image.jpg）
 
 
 
